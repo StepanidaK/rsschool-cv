@@ -8,7 +8,9 @@
 
 - Email address: stesha@test.com
 
-- Linkedin: [link](https://ru.linkedin.com/in/stepanida-kirillina)
+- Linkedin: [Linkedin profile](https://ru.linkedin.com/in/stepanida-kirillina)
+
+- GitHub: [GitHub profile](https://StepanidaK.github.io/rsschool-cv/cv)
 
 ## About me 
 
