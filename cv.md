@@ -2,7 +2,7 @@
 
 ## My contact details 
 
-- Location: Yakutsk, Russia
+- Location: Yakutsk, Russian Federation
 
 - Phone number: +79123456789
 
